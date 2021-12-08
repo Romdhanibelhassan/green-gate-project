@@ -1,1 +1,1 @@
-# green-gate-projecy
+# green-gate-project
